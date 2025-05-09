@@ -9,17 +9,25 @@ Crypto Trade Backtesting Application
 
 ## INSTALLATION GUIDE
 Open up the terminal and type the following command:
+
     git clone https://github.com/PrashanthReddyGP/DreamTester.git
+
     cd DreamTester
+
     python -m venv .venv // Optional: If you want to keep your dependencies organized. Create a new Virtual Environment
+
     .venv\scripts\activate // Optional: Activate the created Virtual Environment
+
     pip install -r requirements.txt
 
 Create a .env file and add the following:
+
     BINANCE_API = 'your_api_key'
+
     BINANCE_SECRET = 'your_api_secret'
 
 Now run the main.py file by typing the following in your terminal:
+
     python main.py
 
 ## Phase 1: Setup

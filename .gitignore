@@ -3,6 +3,6 @@
 __pycache__/
 .vscode/
 output/*
-!output/
+!output/.gitkeep
 data/*
-!data/
+!data/.gitkeep

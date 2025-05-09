@@ -43,3 +43,7 @@ Now run the main.py file by typing the following in your terminal:
 
 ## Phase 3: Docker Deployment
 - [ ] Modify the codebase to migrate to Docker Setup
+
+## Bugs
+- [ ] Fix multi-OS UI configuration
+- [ ] Binance Api Time Sync error
